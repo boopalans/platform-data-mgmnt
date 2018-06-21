@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.2.2] 2018-02-10
+### Changed:
+- PNDA-3601: Disable emailtext in Jenkins file and replace it with notifier stage and job
+
 ## [0.2.1] 2017-11-24
 ### Added:
 - PNDA-2445: Support for Hortonworks HDP
